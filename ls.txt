@@ -1,0 +1,10 @@
+total 32K
+drwxrwxr-x 4 parallels parallels 4.0K Feb 11 23:22 ./
+drwxr-xr-x 5 parallels parallels 4.0K Feb 11 22:57 ../
+drwxrwxr-x 8 parallels parallels 4.0K Feb 11 23:21 .git/
+-rw-rw-r-- 1 parallels parallels   13 Feb 11 22:41 README.md
+drwxrwxr-x 3 parallels parallels 4.0K Feb 11 23:04 SHMATKO-SK/
+-rw-rw-r-- 1 parallels parallels  585 Feb 11 23:17 config.txt
+-rw-rw-r-- 1 parallels parallels  447 Feb 11 23:13 first.txt
+-rw-rw-r-- 1 parallels parallels    0 Feb 11 23:22 ls.txt
+-rw-rw-r-- 1 parallels parallels  474 Feb 11 23:13 status.txt
